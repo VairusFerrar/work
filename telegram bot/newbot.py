@@ -12,7 +12,7 @@ import emoji
 from pyowm.utils import config as cfg
 from telebot import types
 #Бот
-BOT_TOKEN = '5134588673:AAFFnOEPWqaV4m8PG8waQxQOclD1DhjDeO4'
+BOT_TOKEN = 'secret'
 BOT_INTERVAL = 3
 BOT_TIMEOUT = 30
 users = [ 699846741 ]
